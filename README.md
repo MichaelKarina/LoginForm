@@ -51,5 +51,5 @@ For any questions or inquiries, feel free to reach out to me:
 
 <details>
   <summary>Reveal Contact Information</summary>
-  Email: [mikekarina68@gmail.com](mailto:mikekarina68@gmail.com)
+  - **Email**: [mikekarina68@gmail.com](mailto:mikekarina68@gmail.com)
 </details>
