@@ -50,6 +50,11 @@ Open index.html in your web browser to view and interact with the form.
 For any questions or inquiries, feel free to reach out to me:
 
 <details>
-  <summary>Reveal Contact Information</summary>
+  <summary>Click to reveal contact information</summary>
+  
+  If you have any questions or feedback, feel free to reach out:
+
   - **Email**: [mikekarina68@gmail.com](mailto:mikekarina68@gmail.com)
+  - **GitHub Profile**: [MichaelKarina](https://github.com/MichaelKarina)
+
 </details>
