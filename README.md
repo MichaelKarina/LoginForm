@@ -40,11 +40,13 @@ To get started with this project:
    git clone https://github.com/MichaelKarina/LoginForm.git
    cd LoginForm
 Open index.html in your web browser to view and interact with the form.
-📁 Project Structure
-index.html: Contains the HTML structure with forms for login and registration.
-style.css: Manages the styling of the forms, background, and transitions.
-script.js: Handles the JavaScript interactivity for form switching.
-📧 Contact
+
+## 📁 Project Structure
+- **index.html:** Contains the HTML structure with forms for login and registration.
+- **style.css:** Manages the styling of the forms, background, and transitions.
+- **script.js:** Handles the JavaScript interactivity for form switching.
+  
+## 📧 Contact
 For any questions or inquiries, feel free to reach out to me:
 
 <details>
